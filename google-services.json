@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698204682710",
+    "project_id": "navlore-ceed9",
+    "storage_bucket": "navlore-ceed9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698204682710:android:76665c139d9e5b9a0f4c77",
+        "android_client_info": {
+          "package_name": "com.navlore.navloreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfV0fsQg_vzX05lLuGZNhm2CgT5F0BRHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
